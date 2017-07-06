@@ -13,4 +13,31 @@ password:Burundi1
 -user name:regisndayizeye1
 on actualise la page.
 nom du produit ibbcashtransfer
+installer git
+- sudo apt-get install git
+-git --help
+*les premiers commit
+-mkdir mopojet
+-git unit pour initialiser le projet
+*la configuration de git
+-git help config:la commende config nous permet de definir les elements de configuration
+
+-git config --global user.email ou name"ndayizeyeregis@yahoo.fr"
+*pour comprendre l'etat des configuration
+-git config --list
+-git status ce ns permet de vor l'etat de notre status
+*pour ajouter un fichier
+git add nom du fuichier
+-*pour les commit
+-git commit -m "message"
+un fichier qui est bien track ca veut dire un fichier qui est modifie
+*git commit -a -m "toutes les fichiers qui sont modifie"
+*pour rajouter les fichiers
+-git add -all ou git add *.html:tous les fichiers html
+-git log --oneline:nous permet de recuperer les informations sur une seule ligne.
+-git log -p nom du fichier:pour indiquer le chemin 
+*pour creer une branche
+-git checkout -b nomdubranche
+
+
 
