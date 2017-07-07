@@ -53,6 +53,9 @@ source tree
 ungit
 git dlow
 gitkraken
+la commande checkout si vous avez besoin de voir le code ou revenir en arriere,ca permet aussi d'aller de branche en branche
+la commande revert aussi c est pour revenir arriere sur le commit,juste defaire un commit
+la commande reset n'est pas securise ,on ne peut pas modifier l'historique
 
 
 
